@@ -35,8 +35,8 @@ $on-laptop:        800px;
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
+  @media screen and (max-width: $device) {
+    @content;
     }
 }
 
@@ -44,5 +44,5 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "style"
+  "style"
 ;

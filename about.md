@@ -1,12 +1,32 @@
 ---
-title: About Hagura
+title: About Me
 layout: post
 permalink: /about/
 ---
 
-For more themes, visit [https://blog.webjeda.com](https://blog.webjeda.com)
+## Hello!
+I am a passionate javascript developer with hunger for technology trends and cultures. :)
 
-Does the theme deserve a star?
+#### Preferred stack:
+- Nodejs
+- MongoDB / Postgres
+- AWS
+- React/Redux
 
-<a class="github-button" href="https://github.com/sharu725/hagura" data-style="mega" data-count-href="/sharu725/hagura/stargazers" data-count-api="/repos/sharu725/hagura#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/hagura on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+#### Specialties:
+- HTML5, CSS3, Sass
+- Fullstack JavaScript, NodeJs, React/Redux, AngularJS
+- MongoDB, SQL (Postgres)
+- Git, Grunt, Gulp, Webpack, Bash environments ... all things that sweaten my works :joy:
+- Amazon web services, Serverless framework and architecture.
+- Unit testing.
+
+#### Also interested in
+- Java
+- Photoshop, Photography
+- Games, yes of course. Dark Souls?
+
+#### Study in progress:
+- Bashscript
+- System designs
+- React-native
