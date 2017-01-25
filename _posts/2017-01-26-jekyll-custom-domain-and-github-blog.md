@@ -17,7 +17,7 @@ Github pages was announced a while back, and is one of many solutions to replace
 
 OK enough introduction! Let's get started!
 
-![let's get started]({{ site.url }}/assets/cooking.gif)
+![let's get started]({{ site.url }}/images/cooking.gif)
 
 ## Ingredients
 - 1 finely made, beautiful jekyll theme,
@@ -28,6 +28,7 @@ OK enough introduction! Let's get started!
 - And the last but not least, a `gh-pages` branch to present the final dish.
 
 ## Directions
+
 Prep | Cook | Ready in
 --- | --- | ---
 `Varies` | `10 mins` | `24 hours`
@@ -35,9 +36,9 @@ Prep | Cook | Ready in
 1. Commit and push your jekyll blog contents to `yourusername.github.io` repository.
 2. Go to repository page's setting tab and scroll to github pages settings...
 
-  ![repo-tab]({{ site.url }}/assets/repo-tab.png)
+  ![repo-tab]({{ site.url }}/images/repo-tab.png)
 
-  ![github-pages-settings]({{ site.url }}/assets/github-pages-settings.png)
+  ![github-pages-settings]({{ site.url }}/images/github-pages-settings.png)
 
 3. From `Source` dropdown, choose the branch that you would like your page to be hosted on. Preferably **gh-pages** branch that we prepared.
 4. (Optional) use Github prepared themes if you are not satisfied with your current setup.
@@ -50,7 +51,7 @@ Prep | Cook | Ready in
 
   * Host - Type - Content
 
-  ![address-record]({{ site.url }}/assets/address-record.png)
+  ![address-record]({{ site.url }}/images/address-record.png)
 
   * **A** is Address record - **192.30.252.153** and **192.30.252.154** is Github's IP, these are **mandatory** for github to redirect the domain to your github website.
   * **CNAME** is Canonical name record - All request to `example.com` will be served as if it is `www.example.com` and vice versa. This is optional.
@@ -58,6 +59,6 @@ Prep | Cook | Ready in
 11. If your provider does not support dashboard, contact their customer support and ask them to create the same above records for your domain.
 12. Voila, setup is now completed. And the foods will be served once your DNS is configured on your provider side.
 
-![food-is-served]({{ site.url }}/assets/food-is-served.gif)
+![food-is-served]({{ site.url }}/images/food-is-served.gif)
 
 ## Enjoy!
