@@ -5,6 +5,7 @@ date:   2016-01-26 01:30:00 +0200
 categories: blog
 tags: jekyll github pages domain
 comments: true
+thumbnail: cooking.gif
 ---
 
 ## Forewords
