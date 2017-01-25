@@ -49,9 +49,10 @@ OK enough introduction! Let's get started!
 5. In `Custom domain` text field, input your awesome domain.
 6. Enforce HTTPS will be disabled if you use a custom domain.
 7. Press `Save` button next to `Custom domain`.
-8. Go to your domain provider, login to their admin dashboard. If you chosen DNS provider does not support customer's admin dashboard, **skip to step 11**. My DNS of choice is [Onlydomains](onlydomains.com) as i got a decent offer for my `.io` domain.
+8. Go to your domain provider, login to their admin dashboard. If you chosen DNS provider does not support customer's admin dashboard, **skip to step 12**. My DNS of choice is [Onlydomains](onlydomains.com) as i got a decent offer for my `.io` domain.
 9. After logged into the dashboard, navigate to `DNS settings` for your domain, find the `Zone record` settings.
-10. Create 3 new entries as following
+10. Take a break, eat the cheese and cookies :)
+11. Create 3 new entries as following
 
   * Host - Type - Content
 
@@ -60,8 +61,8 @@ OK enough introduction! Let's get started!
   * **A** is Address record - **192.30.252.153** and **192.30.252.154** is Github's IP, these are **mandatory** for github to redirect the domain to your github website.
   * **CNAME** is Canonical name record - All request to `example.com` will be served as if it is `www.example.com` and vice versa. This is optional.
 
-11. If your provider does not support dashboard, contact their customer support and ask them to create the same above records for your domain.
-12. Voila, it is now completed. The foods will be served once your DNS is configured on your provider side.
+12. If your provider does not support dashboard, contact their customer support and ask them to create the same above records for your domain.
+13. Voila, it is now completed. The foods will be served once your DNS is configured on your provider side.
 
 ![food-is-served]({{ site.url }}/images/food-is-served.gif)
 
