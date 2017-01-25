@@ -36,9 +36,9 @@ Prep | Cook | Ready in
 1. Commit and push your jekyll blog contents to `yourusername.github.io` repository.
 2. Go to repository page's setting tab and scroll to github pages settings...
 
-  ![repo-tab]({{ site.url }}/images/repo-tab.png)
+  ![repo-tab]({{ site.url }}/images/repo-tab.PNG)
 
-  ![github-pages-settings]({{ site.url }}/images/github-pages-settings.png)
+  ![github-pages-settings]({{ site.url }}/images/github-pages-settings.PNG)
 
 3. From `Source` dropdown, choose the branch that you would like your page to be hosted on. Preferably **gh-pages** branch that we prepared.
 4. (Optional) use Github prepared themes if you are not satisfied with your current setup.
@@ -51,7 +51,7 @@ Prep | Cook | Ready in
 
   * Host - Type - Content
 
-  ![address-record]({{ site.url }}/images/address-record.png)
+  ![address-record]({{ site.url }}/images/address-record.PNG)
 
   * **A** is Address record - **192.30.252.153** and **192.30.252.154** is Github's IP, these are **mandatory** for github to redirect the domain to your github website.
   * **CNAME** is Canonical name record - All request to `example.com` will be served as if it is `www.example.com` and vice versa. This is optional.
