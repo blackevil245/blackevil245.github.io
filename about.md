@@ -1,10 +1,9 @@
 ---
-title: About Me
+title: Hello!
 layout: post
 permalink: /about/
 ---
 
-## Hello!
 I am a passionate javascript developer with hunger for technology trends and cultures. :)
 
 #### Preferred stack:
@@ -17,7 +16,7 @@ I am a passionate javascript developer with hunger for technology trends and cul
 - HTML5, CSS3, Sass
 - Fullstack JavaScript, NodeJs, React/Redux, AngularJS
 - MongoDB, SQL (Postgres)
-- Git, Grunt, Gulp, Webpack, Bash environments ... all things that sweaten my works :joy:
+- Git, Grunt, Gulp, Webpack, Bash environments ... all things that sweeten my work :joy:
 - Amazon web services, Serverless framework and architecture.
 - Unit testing.
 

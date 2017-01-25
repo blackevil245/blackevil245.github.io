@@ -6,7 +6,7 @@ categories: blog
 tags: introduction
 ---
 
-![sample post](https://media.giphy.com/media/KBtNR7MkrO5UY/giphy.gif)
+![hello]({{ site.url }}/assets/hello-stitch.gif)
 
 Finally after ages fighting whether i should buy a `.io` domain, my wallet had suffered its lost. `jamesnguyen.io` is now my official new home.
 
