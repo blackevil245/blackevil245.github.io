@@ -4,6 +4,7 @@ title:  "[Recipe] Jekyll flavored Github blog with custom domain topping"
 date:   2016-01-26 01:30:00 +0200
 categories: blog
 tags: jekyll github pages domain
+comments: true
 ---
 
 ## Forewords
@@ -29,9 +30,11 @@ OK enough introduction! Let's get started!
 
 ## Directions
 
-Prep | Cook | Ready in
---- | --- | ---
-`Varies` | `10 mins` | `24 hours`
+**Prep**: `Varies`
+
+**Cook**: `10 mins`
+
+**Ready in**: `24 hours`
 
 1. Commit and push your jekyll blog contents to `yourusername.github.io` repository.
 2. Go to repository page's setting tab and scroll to github pages settings...
@@ -57,7 +60,7 @@ Prep | Cook | Ready in
   * **CNAME** is Canonical name record - All request to `example.com` will be served as if it is `www.example.com` and vice versa. This is optional.
 
 11. If your provider does not support dashboard, contact their customer support and ask them to create the same above records for your domain.
-12. Voila, setup is now completed. And the foods will be served once your DNS is configured on your provider side.
+12. Voila, it is now completed. The foods will be served once your DNS is configured on your provider side.
 
 ![food-is-served]({{ site.url }}/images/food-is-served.gif)
 

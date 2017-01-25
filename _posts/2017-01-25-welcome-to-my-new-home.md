@@ -4,6 +4,7 @@ title:  "Welcome to my new home!"
 date:   2016-01-25 00:00:15 +0200
 categories: blog
 tags: introduction
+comments: true
 ---
 
 ![hello]({{ site.url }}/images/hello-stitch.gif)
